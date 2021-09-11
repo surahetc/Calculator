@@ -36,11 +36,8 @@ export default function Keypad(props) {
                     <Button label={"Clear"} onClick={props.onClick} special="clear"/>
                 </div>
 
-                
-
                 <div>
-                    
-                    
+         
                     <Button label={"Ans"} onClick={props.onClick} special="ans" />
                 </div>
 

@@ -1,0 +1,68 @@
+Description of the project:- 
+
+
+GITHUB LINK :- https://github.com/surahetc/calculator
+-----------------------------------------------------------------------
+
+DOCKER LINK:- https://hub.docker.com/repository/docker/surajhetc/react-calc-app
+
+first pull then run the docker command : docker run -p 3000:3000 surajhetc/react-calc-app:v3
+
+****make sure the tag is mentioned that is 'v3' in case of pull also, if any error occur
+****make sure the port is mapped to 3000:3000 
+
+
+--------------------------------------------------------------------------
+
+AMAZON AWS HOSTED PAGE: http://3.108.218.97:3000/
+
+
+
+-------------------------------------------------------------------------
+
+
+DESCRIPTION:-
+
+
+
+
+The project is a about a website which contains a calculator app. It is a single page application.
+------------------------------------------------------------------
+
+DETAILS ABOUT THE PAGE:- 
+
+	1. It can perform basic addition, substraction, multiplication and divison.
+	2. It can also perform decimal operation.
+	3. It shows math error in case of wrong mathematical expression is entered.
+	4. It shows Math error in case the value comes out undefined or infinity.
+
+----------------------------------------------------------------
+
+
+
+
+Technologies used :
+
+	1. node js => for installing react and working with js files.
+	2. react js => for developing the front end of the app.
+	3. docker  => in order to dockerize the container
+	4. git hub => in order to keep track of the code
+	5. amazon aws account => in order to deploy the application for public use.
+
+-----------------------------------------------------------------
+
+All the commits done in the projects and their description : - 
+
+	1st commit : the project is added to git respository.
+
+	2nd commit : all the basic structure of react app is created and css is added
+	
+	3rd commit : Addition of dockerfile
+
+	4th commit : minor changes in port and addition of meta tags in html file.
+
+
+
+
+
+------------------------------THE END------------------------------
